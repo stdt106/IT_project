@@ -18,7 +18,7 @@ def save_article(data):
         date_str = data.get('date')
 
         if not (title and anons and full_text):
-            print("⚠️ Пропущены обязательные поля. Пропускаем.")
+            print("⚠️ Пропущены обязательные поля! Пропускаем.")
             return
 
         date = datetime.fromisoformat(date_str) if date_str else datetime.now()
