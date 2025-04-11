@@ -3,3 +3,4 @@ uvicorn
 pika
 python-dotenv
 rabbitmq-admin
+openai

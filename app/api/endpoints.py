@@ -1,37 +1,24 @@
 from fastapi import FastAPI, APIRouter
-from fastapi.responses import HTMLResponse
+from pydantic import BaseModel
 from app.core.producer import RabbitProducer
 
-# Создаем основной экземпляр FastAPI
-app = FastAPI(title="RabbitMQ Manager", docs_url="/docs")
-
-# Создаем роутер
+app = FastAPI()
 router = APIRouter()
 
-@router.get("/", response_class=HTMLResponse)
-async def root():
-    return """
-    <html>
-        <head><title>FastAPI + RabbitMQ</title></head>
-        <body>
-            <h1>Сервер работает!</h1>
-            <p>Доступные эндпоинты:</p>
-            <ul>
-                <li><a href="/docs">/docs</a> - Swagger UI</li>
-                <li>POST <a href="/send">/send</a> - Отправка сообщений</li>
-            </ul>
-        </body>
-    </html>
-    """
+# Добавляем модель для валидации
+class Message(BaseModel):
+    title: str  # Обязательное поле
+    anons: str = "Trump do smth, definitely"  # Необязательное поле со значением по умолчанию
+    full_text: str = "Nema"
 
 @router.post("/send")
-async def send_message(message: dict):
+async def send_message(message: Message):  # Используем модель
     producer = RabbitProducer()
     try:
-        producer.send(queue_name="to_db", message=message)
+        # Преобразуем Pydantic-модель в dict
+        producer.send(queue_name="news_queue", message=message.dict())
         return {"status": "Сообщение отправлено"}
     finally:
         producer.close()
 
-# Подключаем роутер к приложению
 app.include_router(router)
