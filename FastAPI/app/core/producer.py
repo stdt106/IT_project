@@ -1,6 +1,6 @@
 import pika
 import json
-from app.services.logger import setup_logger
+from FastAPI.app.services.logger import setup_logger
 logger = setup_logger('rabbit_producer')
 
 
