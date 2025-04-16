@@ -1,0 +1,31 @@
+{% extends 'ex_1/layout.html' %}
+
+{% block title %}
+    {{ article.title }}
+{% endblock %}
+
+{% block content %}
+    <h1>{{ article.title }}</h1>
+    <p><strong>Анонс:</strong> {{ article.anons }}</p>
+    <p>{{ article.full_text }}</p>
+    <p><em>Дата публикации:</em> {{ article.date }}</p>
+
+    <hr>
+    <h3>Комментарии:</h3>
+
+    {% if comments %}
+        <ul class="list-group">
+            {% for comment in comments %}
+                <li class="list-group-item d-flex align-items-center">
+                    <img src="https://via.placeholder.com/40" class="rounded-circle me-3" alt="avatar">
+                    <div>
+                        <strong>Имя Фамилия</strong>  {# позже подставим из VK #}
+                        <p class="mb-0">{{ comment.content }}</p>
+                    </div>
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>Комментариев пока нет.</p>
+    {% endif %}
+{% endblock %}

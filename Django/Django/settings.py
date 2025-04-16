@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-&vvzpipqc#gwgam4ls96bs&3hb()yw#ex6xq(theu539u*@@pl
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.1.60', '127.0.0.1:8000', '127.0.0.1']
+ALLOWED_HOSTS = ['192.168.1.60', '127.0.0.1:8000', '127.0.0.1', '128.0.138.187', 'localhost', '.loca.lt', 'curly-owls-invite.loca.lt']
 
 # http://192.168.1.60:8000
 # Application definition
@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     'ex_1',
     'news',
     'channels',
+    'social_django',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -43,6 +44,19 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 ]
+
+AUTHENTICATION_BACKENDS = (
+    'social_core.backends.vk.VKOAuth2',
+    'django.contrib.auth.backends.ModelBackend',
+)
+
+SOCIAL_AUTH_VK_OAUTH2_KEY = '53440981'
+SOCIAL_AUTH_VK_OAUTH2_SECRET = '82zGmBUMXTmKebIBXHPZ'
+
+SOCIAL_AUTH_LOGIN_REDIRECT_URL = '/'
+SOCIAL_AUTH_LOGIN_ERROR_URL = '/auth-error/'
+
+SOCIAL_AUTH_VK_OAUTH2_SCOPE = ['email']
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -67,6 +81,8 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+                'social_django.context_processors.backends',
+                'social_django.context_processors.login_redirect',
             ],
         },
     },

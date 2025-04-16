@@ -13,3 +13,20 @@ class Articles(models.Model):
     class Meta:
         verbose_name = 'Новость'
         verbose_name_plural = 'Новости'
+
+
+class Comments(models.Model):
+    article = models.ForeignKey(
+        Articles,
+        on_delete=models.CASCADE,
+        related_name='comments',
+        verbose_name='Новость'
+    )
+    content = models.TextField('Комментарий', max_length=500)
+
+    def __str__(self):
+        return self.content
+
+    class Meta:
+        verbose_name = 'Комментарий'
+        verbose_name_plural = 'Комментарии'

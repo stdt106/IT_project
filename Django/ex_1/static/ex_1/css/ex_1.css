@@ -1,6 +1,7 @@
 body {
     background: #ffffff;
-    margin-left: 34%;
+    margin-left: 0;
+    padding: 0;
 }
 
 aside .buttons {
@@ -22,12 +23,12 @@ aside .buttons button {
 
 aside {
     position: fixed;
-    top: 0;
+    top: 60px;
     left: 0;
     float: left;
     background: #ffffff;
     width: 17%;
-    height: 100vh;
+    height: calc(100vh - 60px);
     color: #000000;
     border-right: 0.2vw solid rgba(108, 108, 108, 0.82);
 }
@@ -80,16 +81,38 @@ aside ul a {
     text-decoration: none;
 }
 
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    height: 60px;
+    background-color: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+main {
+    margin-left: 17%;
+    padding-top: 70px;
+}
+
 main .features {
     float: left;
     color: #000000;
     margin-top: 70px;
     text-align: center;
     width: 75%;
+    margin-left: 20%;
 }
 
 main .features h1 {
     font-size: 50px;
+    margin-left: -17%;
 }
 
 main .features p {

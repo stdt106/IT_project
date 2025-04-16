@@ -1,5 +1,5 @@
 from django.shortcuts import render, redirect
-from .models import Articles
+from .models import Articles, Comments
 from .forms import ArticlesForm
 
 
@@ -26,3 +26,13 @@ def create(request):
     }
 
     return render(request, 'news/create.html', data)
+
+
+def article_detail(request, article_id):
+    article = Articles.objects.get(id=article_id)
+    comments = article.comments.all()
+
+    return render(request, 'news/article_detail.html', {
+        'article': article,
+        'comments': comments
+    })

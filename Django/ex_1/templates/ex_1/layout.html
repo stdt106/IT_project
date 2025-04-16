@@ -16,29 +16,36 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.6.0/css/all.css">
 </head>
 <body>
-    <aside>
-        <div class="buttons">
-            <button class="btn btn-warning">Спорт</button>
-            <button class="btn btn-warning">Наука</button>
-            <button class="btn btn-warning">Искусство</button>
-            <button class="btn btn-warning">Экономика</button>
-            <button class="btn btn-warning">Криптомир</button>
-            <button class="btn btn-warning">Образование</button>
-        </div>
-        <h2><i class="fa-brands fa-neos"></i></h2>
-        <h3><span class="logo">Fast\News</span></h3>
-        <h4> Навигация</h4>
-        <ul>
-            <a href="{% url 'news_home' %}"><li><i class="fa-regular fa-newspaper"></i> Новости</li></a>
-            <a href="{% url 'home' %}"><li><i class="fa-solid fa-globe"></i> Сегодня</li></a>
-            <a href="{% url 'about' %}"><li><i class="fa-solid fa-earth-americas"></i> За неделю</li></a>
-            <a href="{% url 'create' %}"><li><button class="btn btn-info"><i class="fa-solid fa-circle-plus"></i> Добавить запись</button></li></a>
-        </ul>
-    </aside>
-    <main>
-        {% block content %}
+    <!-- Шапка авторизации -->
+    <header class="d-flex justify-content-end align-items-center p-3" style="background-color: #f8f9fa;">
+        {% if user.is_authenticated %}
+            <img src="https://via.placeholder.com/40" class="rounded-circle me-2" alt="avatar">
+            <span>{{ user.first_name }} {{ user.last_name }}</span>
+        {% else %}
+            <img src="https://via.placeholder.com/40/ccc/fff?text=VK" class="rounded-circle me-2" alt="default">
+            <a href="{% url 'social:begin' 'vk-oauth2' %}?next={{ request.path }}">Войти через VK</a>
+        {% endif %}
+    </header>
 
-        {% endblock %}
-    </main>
+    <!-- Основной блок: боковое меню + контент -->
+    <div class="d-flex">
+        <aside>
+            <h2><i class="fa-brands fa-neos"></i></h2>
+            <h3><span class="logo">Fast\News</span></h3>
+            <h4>Навигация</h4>
+            <ul>
+                <a href="{% url 'news_home' %}"><li><i class="fa-regular fa-newspaper"></i> Новости</li></a>
+                <a href="{% url 'home' %}"><li><i class="fa-solid fa-globe"></i> Сегодня</li></a>
+                <a href="{% url 'about' %}"><li><i class="fa-solid fa-earth-americas"></i> За неделю</li></a>
+                <a href="{% url 'create' %}"><li><button class="btn btn-info"><i class="fa-solid fa-circle-plus"></i> Добавить запись</button></li></a>
+            </ul>
+        </aside>
+
+        <main class="flex-grow-1 p-3">
+            {% block content %}
+            {% endblock %}
+        </main>
+    </div>
 </body>
+
 </html>
