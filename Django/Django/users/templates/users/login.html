@@ -1,0 +1,26 @@
+{% extends 'users/auth_base.html' %}
+
+{% block title %}Вход{% endblock %}
+
+{% block content %}
+<div class="auth-container d-flex align-items-center justify-content-center" style="min-height: 100vh; background: #f2f4f8;">
+    <div class="auth-box p-4 rounded shadow" style="width: 100%; max-width: 600px; background: white;">
+        <h2 class="text-center mb-4">Вход</h2>
+        <form method="post">
+            {% csrf_token %}
+            <div class="mb-3">
+                <label for="id_username" class="form-label">Имя пользователя</label>
+                <input type="text" name="username" class="form-control" id="id_username" required>
+            </div>
+            <div class="mb-3">
+                <label for="id_password" class="form-label">Пароль</label>
+                <input type="password" name="password" class="form-control" id="id_password" required>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Войти</button>
+        </form>
+        <div class="mt-3 text-center">
+            <a href="{% url 'register' %}">Нет аккаунта? Зарегистрироваться</a>
+        </div>
+    </div>
+</div>
+{% endblock %}

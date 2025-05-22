@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pika
+python-dotenv
+rabbitmq-admin
+openai
+feedparser
+bs4
+selenium
+webdriver-manager
+watchdog

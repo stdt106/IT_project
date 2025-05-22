@@ -1,0 +1,33 @@
+{% extends 'users/auth_base.html' %}
+
+{% block title %}Регистрация{% endblock %}
+
+{% block content %}
+<div class="auth-container">
+  <div class="auth-box p-4 rounded shadow" style="width: 100%; max-width: 600px; background: white;">
+    <h2 class="text-center mb-4">Регистрация</h2>
+    <form method="post">
+      {% csrf_token %}
+      {% if form.errors %}
+        <div class="alert alert-danger">
+          <ul class="mb-0">
+            {% for field in form %}
+              {% for error in field.errors %}
+                <li><strong>{{ field.label }}:</strong> {{ error }}</li>
+              {% endfor %}
+            {% endfor %}
+            {% for error in form.non_field_errors %}
+              <li>{{ error }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+      {{ form.as_p }}
+      <button type="submit" class="btn btn-success mt-3">Зарегистрироваться</button>
+    </form>
+    <div class="mt-3 text-center">
+      <a href="{% url 'login' %}">Уже есть аккаунт? Войти</a>
+    </div>
+  </div>
+</div>
+{% endblock %}

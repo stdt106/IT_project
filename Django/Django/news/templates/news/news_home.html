@@ -1,0 +1,26 @@
+{% extends 'ex_1/layout.html' %}
+
+{% block title %}
+    Новости на сайте
+{% endblock %}
+
+{% block content %}
+    <div class="features">
+        <h1>Новости на сайте</h1>
+
+        {% if news %}
+            {% for el in news %}
+                <div class="alert alert-warning">
+                    <h3>{{ el.title }}</h3>
+                    <h6>{{ el.anons }}</h6>
+                    <h6 class="data"><em>Дата публикации:</em> {{ el.date }}</h6>
+                    <a href="{% url 'news_detail' el.pk %}">Читать далее</a>
+                </div>
+            {% endfor %}
+        {% else %}
+            <p>Нет новостей :(</p>
+        {% endif %}
+
+        {# Комментарий #}
+    </div>
+{% endblock %}

@@ -1,0 +1,44 @@
+{% extends 'ex_1/layout.html' %}
+
+{% block title %}{{ article.title }}{% endblock %}
+
+{% block content %}
+<div class="article">
+    <a href="{% url 'news_home' %}" class="btn btn-secondary mt-3">
+        ← Назад к новостям
+    </a>
+
+    <h1>{{ article.title }}</h1>
+    <p><strong>Анонс:</strong> {{ article.anons }}</p>
+    <p><strong>Текст:</strong> {{ article.full_text }}</p>
+    <p><em>Дата публикации:</em> {{ article.date }}</p>
+
+    <hr>
+    <h3>Комментарии</h3>
+    {% for comment in comments %}
+        <div class="border p-2 my-2 rounded">
+            <div class="d-flex justify-content-between">
+                <strong>{{ comment.author.username }}</strong>
+                <small class="text-muted">{{ comment.created_at|date:"d.m.Y H:i" }}</small>
+            </div>
+            <p class="comment-text">{{ comment.content }}</p>
+        </div>
+    {% empty %}
+        <p>Пока нет комментариев.</p>
+    {% endfor %}
+
+    {% if user.is_authenticated %}
+        <hr>
+        <h4 class="text-center mb-3">Добавить комментарий</h4>
+        <form method="post" style="max-width: 600px; margin: 0 auto;">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <div class="text-center">
+                <button type="submit" class="btn btn-success">Отправить</button>
+            </div>
+        </form>
+    {% else %}
+        <p><a href="{% url 'login' %}">Войдите</a>, чтобы оставить комментарий.</p>
+    {% endif %}
+</div>
+{% endblock %}
