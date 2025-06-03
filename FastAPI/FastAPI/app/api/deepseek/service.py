@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 from pathlib import Path
 from FastAPI.app.services.logger import setup_logger
 
+
 logger = setup_logger('deepseek_service')
 
 def generate_summary(txt: str, save_path: Path, sent_path: Path):
@@ -39,15 +40,15 @@ def generate_summary(txt: str, save_path: Path, sent_path: Path):
     }
 
     try:
-        response = requests.post(url, headers=headers, json=data, timeout=(5, 60))
+        response = requests.post(url, headers=headers, json=data, timeout=(10, 60))
         response.raise_for_status()
         gpt_data = response.json()
         content = gpt_data['choices'][0]['message']['content']
         brief_text = content.split('</think>\n\n')[1]
     except Exception as e:
         logger.error(f"❌ Ошибка GPT: {e}")
+        logger.warning("⚠️ Пропуск отправки, так как GPT не дал результата.")
         return
-
     result = {
         "full_text": txt,
         "title": brief_text.split('\n')[0],

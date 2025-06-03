@@ -308,1076 +308,163 @@ RabbitMQ
 2025-05-20 17:15:06,658 - rabbit_producer - INFO - Producer подключен к RabbitMQ
 2025-05-20 17:15:06,659 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Туристка отправилась в роскошный круиз...
 2025-05-20 17:15:06,663 - rabbit_producer - INFO - Producer отключен
-2025-05-20 18:09:41,748 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 18:09:45,809 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 18:10:05,612 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 18:10:09,672 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 18:10:39,255 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 18:10:43,318 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 18:11:02,505 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 18:11:06,558 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 18:11:34,860 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 18:11:38,924 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 18:11:55,523 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 21:56:58,015 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 21:56:58,029 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 21:57:15,703 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 21:57:19,779 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 21:57:38,689 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 21:57:42,753 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 21:58:13,564 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 21:58:37,667 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 21:59:10,846 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 21:59:14,900 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 22:05:22,623 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 22:05:46,222 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 22:05:50,280 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 22:20:04,880 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 22:20:20,315 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 22:20:24,398 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 22:30:16,495 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 22:30:33,992 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 22:30:38,051 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 22:53:00,121 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 22:53:29,883 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 22:53:33,981 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 22:54:00,100 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 23:02:32,991 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 23:02:54,348 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 23:02:58,409 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 23:33:47,555 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-20 23:33:47,557 - rabbit_producer - INFO - 📰 Отправлено в news_queue: На даче нельзя рубить краснокнижные...
-2025-05-20 23:33:47,561 - rabbit_producer - INFO - Producer отключен
-2025-05-20 23:34:01,396 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-20 23:34:01,398 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Введение Европейским союзом (ЕС) нового...
-2025-05-20 23:34:01,403 - rabbit_producer - INFO - Producer отключен
-2025-05-20 23:34:20,683 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-20 23:34:20,686 - rabbit_producer - INFO - 📰 Отправлено в news_queue: TEL AVIV, May 20. /TASS/....
-2025-05-20 23:34:20,705 - rabbit_producer - INFO - Producer отключен
-2025-05-20 23:34:58,747 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-20 23:34:58,750 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Введение Европейским союзом (ЕС) нового...
-2025-05-20 23:34:58,773 - rabbit_producer - INFO - Producer отключен
-2025-05-20 23:36:16,043 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-20 23:36:16,045 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Введение Европейским союзом (ЕС) нового...
-2025-05-20 23:36:16,049 - rabbit_producer - INFO - Producer отключен
-2025-05-20 23:38:03,078 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-20 23:38:03,083 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Президент Украины Владимир Зеленский предпринял...
-2025-05-20 23:38:03,102 - rabbit_producer - INFO - Producer отключен
-2025-05-20 23:42:54,933 - rabbit_producer - ERROR - ❌ Ошибка подключения к RabbitMQ: 
-2025-05-20 23:43:10,040 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-20 23:43:10,042 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Президент США Дональд Трамп резко...
-2025-05-20 23:43:10,051 - rabbit_producer - INFO - Producer отключен
-2025-05-20 23:47:23,548 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-20 23:47:23,551 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Президент США Дональд Трамп резко...
-2025-05-20 23:47:23,560 - rabbit_producer - INFO - Producer отключен
-2025-05-20 23:48:03,974 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-20 23:48:03,976 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Телекомментатор Дмитрий Губерниев пристыдил главу...
-2025-05-20 23:48:04,024 - rabbit_producer - INFO - Producer отключен
-2025-05-20 23:53:56,860 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-20 23:53:56,861 - rabbit_producer - INFO - 📰 Отправлено в news_queue: План «Ковер» ввели в калужских...
-2025-05-20 23:53:56,869 - rabbit_producer - INFO - Producer отключен
-2025-05-20 23:58:42,741 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-20 23:58:42,743 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Жительница Улан-Удэ лишилась квартиры из-за...
-2025-05-20 23:58:42,749 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:04:09,662 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:04:09,666 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. The...
-2025-05-21 00:04:09,676 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:07:29,946 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:07:29,948 - rabbit_producer - INFO - 📰 Отправлено в news_queue: 21 мая в России отмечают...
-2025-05-21 00:07:29,955 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:14:20,325 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:14:20,327 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Московский аэропорт Шереметьево , который...
-2025-05-21 00:14:20,333 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:17:18,693 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:17:18,696 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Индия начала оснащать бронетехнику экранами...
-2025-05-21 00:17:18,706 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:17:55,912 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:17:55,918 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Московский аэропорт Шереметьево , который...
-2025-05-21 00:17:55,996 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:18:30,098 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:18:30,100 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Индия начала оснащать бронетехнику экранами...
-2025-05-21 00:18:30,109 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:21:49,934 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:21:49,937 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Журналистка Эмилия Деменцова и режиссер...
-2025-05-21 00:21:49,948 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:23:04,698 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:23:04,702 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Стали известны все пары 1/4...
-2025-05-21 00:23:04,712 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:23:44,543 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:23:44,546 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Журналистка Эмилия Деменцова и режиссер...
-2025-05-21 00:23:44,556 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:26:42,618 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:26:42,621 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Администрация президента США Дональда Трампа...
-2025-05-21 00:26:42,629 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:29:14,153 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:29:14,156 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Администрация президента США Дональда Трампа...
-2025-05-21 00:29:14,164 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:31:12,427 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:31:12,430 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Администрация президента США Дональда Трампа...
-2025-05-21 00:31:12,444 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:33:04,557 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:33:04,560 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Депутат Верховной Рады Алексей Гончаренко...
-2025-05-21 00:33:04,568 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:36:44,369 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:36:44,372 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. Ukrainian...
-2025-05-21 00:36:44,382 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:38:01,384 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:38:01,388 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Бюджет Украины может столкнуться с...
-2025-05-21 00:38:01,398 - rabbit_producer - INFO - Producer отключен
-2025-05-21 00:40:52,264 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 00:40:52,267 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Комнаты в общежитиях стоит покупать...
-2025-05-21 00:40:52,274 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:13:22,861 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:13:22,863 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Интенсивность ударов Вооруженных сил Украины...
-2025-05-21 16:13:22,866 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:13:50,664 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:13:50,665 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MINSK, May 21. /TASS/. The...
-2025-05-21 16:13:50,667 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:14:41,634 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:14:41,638 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Сооснователь корпорации Google Сергей Брин...
-2025-05-21 16:14:41,645 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:16:38,643 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:16:38,646 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Отмена пенсий для бездетных россиян...
-2025-05-21 16:16:38,742 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:18:37,020 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:18:37,022 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. The...
-2025-05-21 16:18:37,030 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:19:08,955 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:19:08,960 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Отмена пенсий для бездетных россиян...
-2025-05-21 16:19:08,970 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:20:06,959 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:20:06,961 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В Савеловском суде Москвы прошли...
-2025-05-21 16:20:06,968 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:25:13,465 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:25:13,468 - rabbit_producer - INFO - 📰 Отправлено в news_queue: CHISINAU, May 21. /TASS/. Former...
-2025-05-21 16:25:13,476 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:26:50,809 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:26:50,812 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Подход переговоров «перемирие — а...
-2025-05-21 16:26:50,823 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:29:32,354 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:29:32,356 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Подход переговоров «перемирие — а...
-2025-05-21 16:29:32,363 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:30:38,148 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:30:38,151 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Европейские лидеры истерично требуют от...
-2025-05-21 16:30:38,160 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:33:00,133 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:33:00,136 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Над Брянской областью уничтожили дрон...
-2025-05-21 16:33:00,144 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:33:30,190 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:33:30,192 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. A...
-2025-05-21 16:33:30,199 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:36:12,067 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:36:12,069 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Убийство экс-советника бывшего президента Украины...
-2025-05-21 16:36:12,077 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:39:37,656 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:39:37,658 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Недалеко от Москвы днем в...
-2025-05-21 16:39:37,670 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:42:40,608 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:42:40,610 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Лимит на денежные переводы с...
-2025-05-21 16:42:40,617 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:44:48,965 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:44:48,968 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В ФСБ рассказали о вербовке...
-2025-05-21 16:44:48,982 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:45:39,958 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:45:39,961 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ST. PETERSBURG, May 21. /TASS/....
-2025-05-21 16:45:39,969 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:48:37,903 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:48:37,907 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Гастропаб в Москве анонсировал продажу...
-2025-05-21 16:48:37,914 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:48:54,049 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:48:54,052 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ST. PETERSBURG, May 21. /TASS/....
-2025-05-21 16:48:54,061 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:51:48,350 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:51:48,353 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Временно исполняющий обязанности губернатора Курской...
-2025-05-21 16:51:48,361 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:54:39,363 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:54:39,365 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ST. PETERSBURG, May 21. /TASS/....
-2025-05-21 16:54:39,374 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:55:11,463 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:55:11,467 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Чаще всего крупные выигрыши в...
-2025-05-21 16:55:11,477 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:55:27,625 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:55:27,626 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ST. PETERSBURG, May 21. /TASS/....
-2025-05-21 16:55:27,633 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:56:01,718 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:56:01,720 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ST. PETERSBURG, May 21. /TASS/....
-2025-05-21 16:56:01,727 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:57:52,979 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:57:52,983 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. Andrey...
-2025-05-21 16:57:52,990 - rabbit_producer - INFO - Producer отключен
-2025-05-21 16:58:26,063 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 16:58:26,069 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Судебные приставы хитростью доставили в...
-2025-05-21 16:58:26,081 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:00:30,145 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:00:30,147 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. An...
-2025-05-21 17:00:30,157 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:01:06,740 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:01:06,741 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Актриса из «Служебного романа» и...
-2025-05-21 17:01:06,751 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:04:00,271 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:04:00,274 - rabbit_producer - INFO - 📰 Отправлено в news_queue: KURSK, May 21. /TASS/. Russian...
-2025-05-21 17:04:00,282 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:04:43,526 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:04:43,529 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Глава госкорпорации «Роснано» Сергей Куликов...
-2025-05-21 17:04:43,537 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:05:45,666 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:05:45,668 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Глава госкорпорации «Роснано» Сергей Куликов...
-2025-05-21 17:05:45,675 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:07:59,708 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:07:59,711 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Российские ученые нашли в горах...
-2025-05-21 17:07:59,722 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:11:10,550 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:11:10,552 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Во Владимирской области временно отключили...
-2025-05-21 17:11:10,560 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:12:55,005 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:12:55,008 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Следователи возбудили еще одно уголовное...
-2025-05-21 17:12:55,021 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:17:54,142 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:17:54,145 - rabbit_producer - INFO - 📰 Отправлено в news_queue: По итогам апреля 2025 года...
-2025-05-21 17:17:54,150 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:19:56,988 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:19:56,990 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В Приморье показали подводного ниндзя....
-2025-05-21 17:19:56,999 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:22:59,825 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:22:59,828 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Реконструктивно-пластический хирург и онколог Максим...
-2025-05-21 17:22:59,834 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:26:15,156 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:26:15,159 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Российские актеры Юрий Колокольников и...
-2025-05-21 17:26:15,169 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:31:12,039 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:31:12,042 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ST. PETERSBURG, May 21. /TASS/....
-2025-05-21 17:31:12,050 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:31:51,660 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:31:51,663 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Российские актеры Юрий Колокольников и...
-2025-05-21 17:31:51,672 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:32:37,896 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:32:37,902 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Печень выполняет более 500 важнейших...
-2025-05-21 17:32:37,915 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:33:46,671 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:33:46,673 - rabbit_producer - INFO - 📰 Отправлено в news_queue: CHISINAU, May 21. /TASS/. Gagauz...
-2025-05-21 17:33:46,681 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:34:56,217 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:34:56,220 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ST. PETERSBURG, May 21. /TASS/....
-2025-05-21 17:34:56,228 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:35:40,020 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:35:40,023 - rabbit_producer - INFO - 📰 Отправлено в news_queue: CHISINAU, May 21. /TASS/. Gagauz...
-2025-05-21 17:35:40,037 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:36:18,009 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:36:18,013 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Второй Западный окружной военный суд...
-2025-05-21 17:36:18,025 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:37:17,208 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:37:17,211 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ST. PETERSBURG, May 21. /TASS/....
-2025-05-21 17:37:17,220 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:39:07,449 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:39:07,451 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Свинку из Грузии из знаменитого...
-2025-05-21 17:39:07,473 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:39:51,423 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:39:51,425 - rabbit_producer - INFO - 📰 Отправлено в news_queue: CAIRO, May 21. /TASS/. The...
-2025-05-21 17:39:51,432 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:42:14,729 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:42:14,731 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В созданную на базе 3-ей...
-2025-05-21 17:42:14,739 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:44:22,066 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:44:22,069 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Министр иностранных дел России Сергей...
-2025-05-21 17:44:22,081 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:47:49,837 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:47:49,839 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Служба безопасности Украины (СБУ) заочно...
-2025-05-21 17:47:49,847 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:48:26,126 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:48:26,130 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Суд приговорил к шести годам...
-2025-05-21 17:48:26,146 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:49:18,796 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:49:18,799 - rabbit_producer - INFO - 📰 Отправлено в news_queue: YEREVAN, May 21. /TASS/. The...
-2025-05-21 17:49:18,808 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:51:01,500 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:51:01,503 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Лето 2025 года в Москве...
-2025-05-21 17:51:01,513 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:52:12,649 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:52:12,654 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ST. PETERSBURG, May 21. /TASS/....
-2025-05-21 17:52:12,664 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:53:45,582 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:53:45,584 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Научно-производственное объединение «Электромашина» (входит в...
-2025-05-21 17:53:45,597 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:56:41,128 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:56:41,129 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Возможные переговоры России и Украины...
-2025-05-21 17:56:41,136 - rabbit_producer - INFO - Producer отключен
-2025-05-21 17:59:53,265 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 17:59:53,268 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Реестр злостных неплательщиков алиментов, который...
-2025-05-21 17:59:53,278 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:00:53,485 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:00:53,490 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. Russian...
-2025-05-21 18:00:53,506 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:01:24,257 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:01:24,260 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Реестр злостных неплательщиков алиментов, который...
-2025-05-21 18:01:24,269 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:02:03,034 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:02:03,038 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ST. PETERSBURG, May 21. /TASS/....
-2025-05-21 18:02:03,047 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:02:34,866 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:02:34,870 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. Russian...
-2025-05-21 18:02:34,889 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:03:18,095 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:03:18,098 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Руководство Центробанка (ЦБ) опустило официальный...
-2025-05-21 18:03:18,111 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:06:31,186 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:06:31,188 - rabbit_producer - INFO - 📰 Отправлено в news_queue: На свалке в Екатеринбурге произошла...
-2025-05-21 18:06:31,197 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:10:17,019 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:10:17,024 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Премьер-министр Армении Никол Пашинян положительно...
-2025-05-21 18:10:17,034 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:13:30,912 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:13:30,915 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Пассажир международного рейса упал на...
-2025-05-21 18:13:30,925 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:15:49,259 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:15:49,261 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. Russian...
-2025-05-21 18:15:49,269 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:16:31,705 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:16:31,707 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Исчезновение американского миллиардера Илона Маска...
-2025-05-21 18:16:31,714 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:18:25,837 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:18:25,840 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Еще семь летящих на Москву...
-2025-05-21 18:18:25,851 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:20:33,344 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:20:33,347 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Еще семь летящих на Москву...
-2025-05-21 18:20:33,353 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:21:20,929 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:21:20,932 - rabbit_producer - INFO - 📰 Отправлено в news_queue: LONDON, May 21. /TASS/. The...
-2025-05-21 18:21:20,939 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:21:59,949 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:21:59,951 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Бразильский полузащитник петербургского «Зенита» Вендел,...
-2025-05-21 18:21:59,959 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:25:00,118 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:25:00,120 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Житель Москвы попытался передать финики,...
-2025-05-21 18:25:00,130 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:27:44,616 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:27:44,618 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. US...
-2025-05-21 18:27:44,623 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:28:14,327 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:28:14,332 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Квартиру балерины Анастасии Волочковой в...
-2025-05-21 18:28:14,405 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:30:58,439 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:30:58,443 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. Sanctions...
-2025-05-21 18:30:58,452 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:31:31,007 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:31:31,010 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Кардиолог Хосе Абельян призвал не...
-2025-05-21 18:31:31,020 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:34:01,618 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:34:01,622 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. The...
-2025-05-21 18:34:01,632 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:37:46,294 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:37:46,354 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Два кошачьих лемура родились в...
-2025-05-21 18:37:46,366 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:39:40,497 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:39:40,500 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MINSK, May 21. /TASS/. The...
-2025-05-21 18:39:40,507 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:40:32,598 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:40:32,601 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. The...
-2025-05-21 18:40:32,608 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:41:03,510 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:41:03,512 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Наглые отдыхающие превратили пляж тихого...
-2025-05-21 18:41:03,518 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:41:20,325 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:41:20,329 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MINSK, May 21. /TASS/. The...
-2025-05-21 18:41:20,339 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:46:11,013 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:46:11,016 - rabbit_producer - INFO - 📰 Отправлено в news_queue: YEREVAN, May 21. /TASS/. Russia...
-2025-05-21 18:46:11,026 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:46:43,559 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:46:43,562 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В Индии женщина, косившая сено,...
-2025-05-21 18:46:43,571 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:49:34,351 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:49:34,353 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Госсекретарь США Марко Рубио ушел...
-2025-05-21 18:49:34,364 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:52:29,829 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:52:29,833 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В Саратове следователи начали доследственную...
-2025-05-21 18:52:29,845 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:54:32,953 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:54:32,955 - rabbit_producer - INFO - 📰 Отправлено в news_queue: BERLIN, May 21. /TASS/. Russia’s...
-2025-05-21 18:54:32,961 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:55:36,350 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:55:36,354 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Жители Нижнего Тагила пожаловались на...
-2025-05-21 18:55:36,423 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:57:43,074 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:57:43,078 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MADRID, May 21. /TASS/. The...
-2025-05-21 18:57:43,093 - rabbit_producer - INFO - Producer отключен
-2025-05-21 18:59:07,868 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 18:59:07,871 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В Архангельской области осудят мужчин...
-2025-05-21 18:59:07,885 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:02:23,119 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:02:23,123 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Прямой контакт США и России...
-2025-05-21 19:02:23,172 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:03:05,440 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:03:05,442 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В Архангельской области осудят мужчин...
-2025-05-21 19:03:05,451 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:03:37,974 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:03:37,976 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Популярный российский стендап-комик Хетаг Хугаев...
-2025-05-21 19:03:37,985 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:04:08,199 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:04:08,202 - rabbit_producer - INFO - 📰 Отправлено в news_queue: UNITED NATIONS, May 21. /TASS/....
-2025-05-21 19:04:08,210 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:06:49,088 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:06:49,091 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Технологическая компании Whoop, специализирующаяся на...
-2025-05-21 19:06:49,095 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:08:10,411 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:08:10,413 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Курс биткоина вновь достигает исторических...
-2025-05-21 19:08:10,420 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:08:51,549 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:08:51,551 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Технологическая компании Whoop, специализирующаяся на...
-2025-05-21 19:08:51,564 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:15:59,952 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:15:59,954 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Сотрудники Йеллоустонского национального парка, США...
-2025-05-21 19:15:59,963 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:17:42,438 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:17:42,442 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Российские танки линейки Т-90М назвали...
-2025-05-21 19:17:42,449 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:20:35,837 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:20:35,839 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Такси получило повреждения из-за падения...
-2025-05-21 19:20:35,845 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:25:11,541 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:25:11,543 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Бывшему президенту США Джо Байдену...
-2025-05-21 19:25:11,552 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:27:47,634 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:27:47,637 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Популярная британская телеведущая и участница...
-2025-05-21 19:27:47,649 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:29:48,012 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:29:48,015 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Американка по имени Эмили Стерн...
-2025-05-21 19:29:48,027 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:33:28,055 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:33:28,057 - rabbit_producer - INFO - 📰 Отправлено в news_queue: YEREVAN, May 21. /TASS/. Russia...
-2025-05-21 19:33:28,065 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:36:05,160 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:36:05,164 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Подлинный риск вооруженного конфликта между...
-2025-05-21 19:36:05,173 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:38:27,432 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:38:27,437 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Подлинный риск вооруженного конфликта между...
-2025-05-21 19:38:27,442 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:39:07,409 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:39:07,411 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В сети появились кадры с...
-2025-05-21 19:39:07,421 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:40:33,301 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:40:33,303 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. Inflation...
-2025-05-21 19:40:33,312 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:42:13,822 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:42:13,825 - rabbit_producer - INFO - 📰 Отправлено в news_queue: 35-летний красноярец провалился в люк...
-2025-05-21 19:42:13,833 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:45:26,606 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:45:26,608 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Годовая инфляция в России перестала...
-2025-05-21 19:45:26,619 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:48:23,904 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:48:23,906 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В заповеднике «Калужские засеки» семья...
-2025-05-21 19:48:23,915 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:48:50,246 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:48:50,248 - rabbit_producer - INFO - 📰 Отправлено в news_queue: NEW YORK, May 21. /TASS/....
-2025-05-21 19:48:50,257 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:51:56,185 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:51:56,189 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Некоторые категории граждан вправе рассчитывать...
-2025-05-21 19:51:56,202 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:53:06,702 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:53:06,706 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В заповеднике «Калужские засеки» семья...
-2025-05-21 19:53:06,716 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:53:44,724 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:53:44,726 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Белорусская и российская певица Бьянка...
-2025-05-21 19:53:44,744 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:58:28,457 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:58:28,465 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. Vladimir...
-2025-05-21 19:58:28,479 - rabbit_producer - INFO - Producer отключен
-2025-05-21 19:59:09,796 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 19:59:09,798 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Швейцария примет участие в конференции...
-2025-05-21 19:59:09,806 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:01:14,089 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:01:14,094 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В Ингушетии нашли прежде неизвестные...
-2025-05-21 20:01:14,102 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:04:11,514 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:04:11,520 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В Ростове-на-Дону мужчина захламил квартиру...
-2025-05-21 20:04:11,529 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:07:10,035 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:07:10,038 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Европейские страны теперь выступают в...
-2025-05-21 20:07:10,051 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:09:32,757 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:09:32,763 - rabbit_producer - INFO - 📰 Отправлено в news_queue: CAIRO, May 21. /TASS/. Israeli...
-2025-05-21 20:09:32,778 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:10:02,499 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:10:02,502 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Президент США Дональд Трамп сохраняет...
-2025-05-21 20:10:02,604 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:12:51,436 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:12:51,439 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MINSK, May 21. /TASS/. The...
-2025-05-21 20:12:51,449 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:16:20,437 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:16:20,441 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Ресторан турецкой кухни загорелся в...
-2025-05-21 20:16:20,449 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:19:27,646 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:19:27,650 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Президент США Дональд Трамп озадачился,...
-2025-05-21 20:19:27,659 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:21:50,876 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:21:50,880 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Президент США Дональд Трамп озадачился,...
-2025-05-21 20:21:50,891 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:25:50,422 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:25:50,424 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Фитнес-эксперт Ирина Ротач назвала способ...
-2025-05-21 20:25:50,435 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:27:55,382 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:27:55,385 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Суд заключил под стражу бывшего...
-2025-05-21 20:27:55,393 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:30:07,060 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:30:07,078 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Мужчина попытался забраться на круизный...
-2025-05-21 20:30:07,090 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:33:51,754 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:33:51,757 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. Russia...
-2025-05-21 20:33:51,765 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:34:50,686 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:34:50,689 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Формат Группы восьми (G8) был...
-2025-05-21 20:34:50,699 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:36:49,900 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:36:49,906 - rabbit_producer - INFO - 📰 Отправлено в news_queue: WASHINGTON, May 21. /TASS/. US...
-2025-05-21 20:36:49,915 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:39:48,868 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:39:48,873 - rabbit_producer - INFO - 📰 Отправлено в news_queue: WASHINGTON, May 21. /TASS/. The...
-2025-05-21 20:39:48,882 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:42:30,312 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:42:30,315 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Врио главы Курской области Александр...
-2025-05-21 20:42:30,324 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:43:06,226 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:43:06,229 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Формат Группы восьми (G8) был...
-2025-05-21 20:43:06,239 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:45:10,507 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:45:10,510 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В Северной Осетии таможенники пресекли...
-2025-05-21 20:45:10,521 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:48:30,525 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:48:30,528 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В Бельгии расправа над женой...
-2025-05-21 20:48:30,534 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:51:21,750 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:51:21,753 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Популярный российский комик Саша Малой...
-2025-05-21 20:51:21,763 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:51:35,447 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:51:35,453 - rabbit_producer - INFO - 📰 Отправлено в news_queue: BUENOS AIRES, May 21. /TASS/....
-2025-05-21 20:51:35,462 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:54:30,789 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:54:30,791 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. The...
-2025-05-21 20:54:30,800 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:55:03,720 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:55:03,722 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Россия готова содействовать нормализации отношений...
-2025-05-21 20:55:03,731 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:57:44,412 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:57:44,414 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Национальная полиция Испании начала поиски...
-2025-05-21 20:57:44,422 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:58:12,527 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:58:12,529 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Национальная полиция Испании начала поиски...
-2025-05-21 20:58:12,538 - rabbit_producer - INFO - Producer отключен
-2025-05-21 20:59:28,921 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 20:59:28,923 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Президент России Владимир Путин и...
-2025-05-21 20:59:28,932 - rabbit_producer - INFO - Producer отключен
-2025-05-21 21:02:38,758 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 21:02:38,761 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Эксперт по сну Рози Дэвидсон...
-2025-05-21 21:02:38,778 - rabbit_producer - INFO - Producer отключен
-2025-05-21 21:03:28,879 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 21:03:28,888 - rabbit_producer - INFO - 📰 Отправлено в news_queue: DUBAI, May 21. /TASS/. The...
-2025-05-21 21:03:28,896 - rabbit_producer - INFO - Producer отключен
-2025-05-21 21:05:55,904 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 21:05:55,908 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В сочинском парке «Южные культуры»...
-2025-05-21 21:05:55,918 - rabbit_producer - INFO - Producer отключен
-2025-05-21 21:06:49,159 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 21:06:49,160 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. The...
-2025-05-21 21:06:49,165 - rabbit_producer - INFO - Producer отключен
-2025-05-21 21:09:04,067 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 21:09:04,071 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Российская фигуристка Вероника Жилина заплатила...
-2025-05-21 21:09:04,080 - rabbit_producer - INFO - Producer отключен
-2025-05-21 21:11:58,514 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 21:11:58,518 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Курильщикам сложнее продать машину чем...
-2025-05-21 21:11:58,527 - rabbit_producer - INFO - Producer отключен
-2025-05-21 21:15:09,819 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 21:15:09,821 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В соцсетях набирают популярность ролики,...
-2025-05-21 21:15:09,827 - rabbit_producer - INFO - Producer отключен
-2025-05-21 21:21:27,359 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 21:21:27,362 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 21. /TASS/. Annual...
-2025-05-21 21:21:27,371 - rabbit_producer - INFO - Producer отключен
-2025-05-21 21:23:13,239 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 21:23:13,241 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Президент США Дональд Трамп во...
-2025-05-21 21:23:13,251 - rabbit_producer - INFO - Producer отключен
-2025-05-21 21:26:23,150 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-21 21:26:23,155 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Учительницу начальных классов лицея №...
-2025-05-21 21:26:23,165 - rabbit_producer - INFO - Producer отключен
-2025-05-22 10:36:08,747 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 10:36:08,753 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Мексиканский защитник московского «Локомотива» Сесар...
-2025-05-22 10:36:08,766 - rabbit_producer - INFO - Producer отключен
-2025-05-22 10:36:31,048 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 10:36:31,049 - rabbit_producer - INFO - 📰 Отправлено в news_queue: BELGOROD, May 22. /TASS/. The...
-2025-05-22 10:36:31,056 - rabbit_producer - INFO - Producer отключен
-2025-05-22 10:37:02,753 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 10:37:02,758 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Популярная австралийская модель Шанина Шейк...
-2025-05-22 10:37:02,773 - rabbit_producer - INFO - Producer отключен
-2025-05-22 10:39:28,140 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 10:39:28,143 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В Тюмени семьям сразу 15...
-2025-05-22 10:39:28,154 - rabbit_producer - INFO - Producer отключен
-2025-05-22 10:42:44,021 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 10:42:44,024 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Российская актриса Ольга Лапшина ,...
-2025-05-22 10:42:44,035 - rabbit_producer - INFO - Producer отключен
-2025-05-22 10:45:34,618 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 10:45:34,621 - rabbit_producer - INFO - 📰 Отправлено в news_queue: TEL AVIV, May 22. /TASS/....
-2025-05-22 10:45:34,632 - rabbit_producer - INFO - Producer отключен
-2025-05-22 10:46:11,107 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 10:46:11,112 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В Еланском районе Волгоградской области...
-2025-05-22 10:46:11,124 - rabbit_producer - INFO - Producer отключен
-2025-05-22 10:48:48,025 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 10:48:48,031 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Средства противовоздушной обороны (ПВО) уничтожили...
-2025-05-22 10:48:48,043 - rabbit_producer - INFO - Producer отключен
-2025-05-22 10:51:02,123 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 10:51:02,127 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Средства противовоздушной обороны (ПВО) уничтожили...
-2025-05-22 10:51:02,138 - rabbit_producer - INFO - Producer отключен
-2025-05-22 10:52:16,149 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 10:52:16,152 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Стоимость биткоина на торгах в...
-2025-05-22 10:52:16,164 - rabbit_producer - INFO - Producer отключен
-2025-05-22 10:55:26,167 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 10:55:26,170 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Российские войска уничтожили на границе...
-2025-05-22 10:55:26,181 - rabbit_producer - INFO - Producer отключен
-2025-05-22 10:58:08,294 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 10:58:08,296 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Социальная сеть «Одноклассники» (ОК) представила...
-2025-05-22 10:58:08,305 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:01:25,196 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:01:25,199 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 11:01:25,206 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:01:56,932 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:01:56,934 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Центробанк отозвал лицензию на проведение...
-2025-05-22 11:01:56,941 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:04:14,948 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:04:14,952 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Центробанк отозвал лицензию на проведение...
-2025-05-22 11:04:14,963 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:04:40,410 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:04:40,413 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 11:04:40,421 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:05:35,266 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:05:35,268 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Клуб «Даллас Старc» одержал победу...
-2025-05-22 11:05:35,277 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:07:05,028 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:07:05,034 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 11:07:05,045 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:07:33,609 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:07:33,612 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Характеристики боевой машины пехоты (БМП)...
-2025-05-22 11:07:33,622 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:07:55,325 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:07:55,328 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. Around...
-2025-05-22 11:07:55,337 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:11:03,425 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:11:03,428 - rabbit_producer - INFO - 📰 Отправлено в news_queue: При ремонте квартир строители могут...
-2025-05-22 11:11:03,438 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:12:42,143 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:12:42,147 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. RRussian...
-2025-05-22 11:12:42,155 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:14:02,021 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:14:02,024 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Российский музыкальный продюсер Яна Рудковская...
-2025-05-22 11:14:02,034 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:15:52,304 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:15:52,309 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 11:15:52,321 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:17:10,479 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:17:10,483 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Украинский лидер Владимир Зеленский не...
-2025-05-22 11:17:10,501 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:19:13,769 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:19:13,774 - rabbit_producer - INFO - 📰 Отправлено в news_queue: SEOUL, May 22. /TASS/. North...
-2025-05-22 11:19:13,784 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:20:04,367 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:20:04,370 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Румыния сделала выбор в пользу...
-2025-05-22 11:20:04,382 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:23:24,276 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:23:24,278 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Четверо мужчин уснули в застрявшем...
-2025-05-22 11:23:24,284 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:26:26,146 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:26:26,149 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Депутаты от ЛДПР во главе...
-2025-05-22 11:26:26,157 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:27:33,902 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:27:33,904 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. Russia’s...
-2025-05-22 11:27:33,915 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:29:07,667 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:29:07,670 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Фиксирующийся в РФ резкий рост...
-2025-05-22 11:29:07,682 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:30:26,266 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:30:26,270 - rabbit_producer - INFO - 📰 Отправлено в news_queue: 21 мая на сайте и...
-2025-05-22 11:30:26,282 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:33:13,794 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:33:13,797 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Самолет авиакомпании United Airlines развернулся...
-2025-05-22 11:33:13,808 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:36:22,194 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:36:22,196 - rabbit_producer - INFO - 📰 Отправлено в news_queue: По итогам апреля 2025 года...
-2025-05-22 11:36:22,206 - rabbit_producer - INFO - Producer отключен
-2025-05-22 11:36:48,961 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 11:36:48,964 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. Temporary...
-2025-05-22 11:36:48,976 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:20:50,122 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:20:50,124 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Ведущий специалист центра погоды «Фобос»...
-2025-05-22 13:20:50,133 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:21:40,491 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:21:40,492 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. Vzglyad...
-2025-05-22 13:21:40,495 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:22:35,887 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:22:35,891 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Российский стилист Владимир Дубинин обругал...
-2025-05-22 13:22:35,901 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:23:11,015 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:23:11,017 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Российский стилист Владимир Дубинин обругал...
-2025-05-22 13:23:11,026 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:24:05,110 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:24:05,114 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Депутат Госдумы Михаил Делягин проверить...
-2025-05-22 13:24:05,130 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:26:54,187 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:26:54,191 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. A...
-2025-05-22 13:26:54,200 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:27:34,892 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:27:34,897 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Добавки витамина D могут существенно...
-2025-05-22 13:27:34,908 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:30:20,108 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:30:20,111 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Президент России Владимир Путин назначил...
-2025-05-22 13:30:20,121 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:30:57,435 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:30:57,437 - rabbit_producer - INFO - 📰 Отправлено в news_queue: DOHA, May 22. /TASS/. Houthi...
-2025-05-22 13:30:57,445 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:43:57,897 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:43:57,898 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. Polish...
-2025-05-22 15:43:57,901 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:44:40,173 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:44:40,176 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Во время военных учений НАТО...
-2025-05-22 15:44:40,185 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:45:30,525 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:45:30,528 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Новый мировой рекорд в гиревом...
-2025-05-22 15:45:30,538 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:02:20,603 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:02:20,606 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Президент России Владимир Путин присвоил...
-2025-05-22 13:02:20,616 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:02:55,680 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:02:55,685 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 13:02:55,695 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:04:50,155 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:04:50,157 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Бывшая возлюбленная певца Вани Дмитриенко...
-2025-05-22 13:04:50,230 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:06:29,746 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:06:29,749 - rabbit_producer - INFO - 📰 Отправлено в news_queue: DUBAI, May 22. /TASS/. Yemen's...
-2025-05-22 13:06:29,757 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:07:17,029 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:07:17,033 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Конгрессмен-республиканец Эндрю Гарбарино проспал голосование...
-2025-05-22 13:07:17,044 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:07:44,418 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:07:44,422 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 13:07:44,434 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:08:25,339 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:08:25,351 - rabbit_producer - INFO - 📰 Отправлено в news_queue: DUBAI, May 22. /TASS/. Yemen's...
-2025-05-22 13:08:25,360 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:09:01,956 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:09:01,959 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 13:09:01,968 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:09:37,956 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:09:37,959 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Народный артист России Аскольд Запашный...
-2025-05-22 13:09:37,968 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:10:03,644 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:10:03,648 - rabbit_producer - INFO - 📰 Отправлено в news_queue: DUBAI, May 22. /TASS/. Yemen's...
-2025-05-22 13:10:03,658 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:10:43,996 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:10:44,000 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 13:10:44,011 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:11:23,118 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:11:23,121 - rabbit_producer - INFO - 📰 Отправлено в news_queue: DUBAI, May 22. /TASS/. Yemen's...
-2025-05-22 13:11:23,129 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:11:55,923 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:11:55,926 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 13:11:55,940 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:14:02,865 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:14:02,868 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В столице краснокнижный утенок провалился...
-2025-05-22 13:14:02,878 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:15:27,923 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:15:27,925 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 13:15:27,934 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:17:04,371 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:17:04,374 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Власти Орловской области опровергли информации...
-2025-05-22 13:17:04,382 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:20:16,744 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:20:16,747 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Москва передала Киеву список солдат...
-2025-05-22 13:20:16,756 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:21:57,811 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:21:57,813 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Москва передала Киеву список солдат...
-2025-05-22 13:21:57,820 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:22:26,892 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:22:26,893 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Уникальный «пятнистый жених» попал в...
-2025-05-22 13:22:26,896 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:24:09,417 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:24:09,421 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Несовершеннолетней жительнице Бердянска , задержанной...
-2025-05-22 13:24:09,530 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:28:37,430 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:28:37,434 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Президент России Владимир Путин торжественно...
-2025-05-22 13:28:37,441 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:34:27,141 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:34:27,143 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Представитель парламентской координационной группы по...
-2025-05-22 13:34:27,153 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:37:21,706 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:37:21,709 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Представитель парламентской координационной группы по...
-2025-05-22 13:37:21,717 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:38:00,477 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:38:00,479 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В апреле 2025 года доля...
-2025-05-22 13:38:00,486 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:41:03,530 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:41:03,533 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В России активизировались мошенники, которые...
-2025-05-22 13:41:03,544 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:44:10,952 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:44:10,954 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Администрация президента США Дональда Трампа...
-2025-05-22 13:44:10,961 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:45:41,603 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:45:41,606 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. There...
-2025-05-22 13:45:41,618 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:47:12,391 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:47:12,393 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Операторы беспилотных летательных аппаратов (БПЛА)...
-2025-05-22 13:47:12,402 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:48:08,914 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:48:08,917 - rabbit_producer - INFO - 📰 Отправлено в news_queue: GENEVA, May 22. /TASS/. The...
-2025-05-22 13:48:08,929 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:48:41,661 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:48:41,665 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. There...
-2025-05-22 13:48:41,674 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:49:17,230 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:49:17,233 - rabbit_producer - INFO - 📰 Отправлено в news_queue: GENEVA, May 22. /TASS/. The...
-2025-05-22 13:49:17,242 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:50:15,440 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:50:15,442 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Люди, ведущие сидячий образ жизни,...
-2025-05-22 13:50:15,452 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:53:09,437 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:53:09,440 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Нападение на советника бывшего президента...
-2025-05-22 13:53:09,449 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:56:10,219 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:56:10,222 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Вооруженные силы (ВС) России резко...
-2025-05-22 13:56:10,228 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:57:15,691 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:57:15,696 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Нападение на советника бывшего президента...
-2025-05-22 13:57:15,707 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:57:51,924 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:57:51,927 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ROME, May 22. /TASS/. The...
-2025-05-22 13:57:51,941 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:58:41,732 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:58:41,739 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Актер и режиссер Тверского академического...
-2025-05-22 13:58:41,747 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:00:15,888 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:00:15,900 - rabbit_producer - INFO - 📰 Отправлено в news_queue: CAIRO, May 22. /TASS/. Residents...
-2025-05-22 14:00:15,911 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:00:47,660 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:00:47,663 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Актер и режиссер Тверского академического...
-2025-05-22 14:00:47,671 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:01:16,105 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:01:16,107 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Президент России Владимир Путин справляется...
-2025-05-22 14:01:16,119 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:02:17,536 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:02:17,538 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Международные резервы РФ сократились за...
-2025-05-22 14:02:17,547 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:03:26,655 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:03:26,658 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ALMETYEVSK, May 22. /TASS/. Oil...
-2025-05-22 14:03:26,668 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:05:59,936 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:05:59,939 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Трансграничную канатную дорогу, которая соединит...
-2025-05-22 14:05:59,948 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:07:12,254 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:07:12,257 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Россия обеспечена редкоземельными металлами на...
-2025-05-22 14:07:12,268 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:09:30,248 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:09:30,251 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 14:09:30,271 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:10:32,527 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:10:32,530 - rabbit_producer - INFO - 📰 Отправлено в news_queue: США смогут восстановить отношения с...
-2025-05-22 14:10:32,541 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:53:05,779 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:53:05,782 - rabbit_producer - INFO - 📰 Отправлено в news_queue: У ведущей новостной программы на...
-2025-05-22 13:53:05,791 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:54:41,117 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:54:41,120 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ROSTOV-ON-DON, May 22. /TASS/. Ukraine...
-2025-05-22 13:54:41,127 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:55:15,378 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:55:15,382 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 13:55:15,390 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:55:52,710 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:55:52,712 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ROSTOV-ON-DON, May 22. /TASS/. Ukraine...
-2025-05-22 13:55:52,723 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:56:30,116 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:56:30,120 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Подразделения аэроразведки, которые получат беспилотники...
-2025-05-22 13:56:30,132 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:57:01,175 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:57:01,178 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Задержание уволенного со словами «так...
-2025-05-22 13:57:01,188 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:59:26,309 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:59:26,313 - rabbit_producer - INFO - 📰 Отправлено в news_queue: На севере Петербурга возле жилого...
-2025-05-22 13:59:26,322 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:02:04,507 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:02:04,510 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Сотрудники Центрального разведывательного управления (...
-2025-05-22 14:02:04,521 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:05:23,405 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:05:23,407 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Президент России Владимир Путин позвонил...
-2025-05-22 14:05:23,413 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:45:45,759 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:45:45,761 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Австралийская актриса Николь Кидман оправдалась...
-2025-05-22 13:45:45,769 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:49:07,843 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:49:07,846 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Московский областной суд приговорил к...
-2025-05-22 13:49:07,855 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:50:46,991 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:50:46,993 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Руководство Германии опасается, что США...
-2025-05-22 13:50:47,000 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:53:23,642 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:53:23,644 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Президент Украины Владимир Зеленский обсудил...
-2025-05-22 13:53:23,652 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:55:40,007 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:55:40,010 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Пострадавший при ударе Вооруженных сил...
-2025-05-22 13:55:40,102 - rabbit_producer - INFO - Producer отключен
-2025-05-22 13:58:02,889 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 13:58:02,893 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Россиянин спас лосенка во время...
-2025-05-22 13:58:02,902 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:03:49,970 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:03:49,973 - rabbit_producer - INFO - 📰 Отправлено в news_queue: DUBAI, May 22. /TASS/. Major...
-2025-05-22 14:03:49,981 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:04:27,707 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:04:27,711 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Диетолог Мануэль Висо рассказал, как...
-2025-05-22 14:04:27,721 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:06:11,051 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:06:11,054 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Уничтожение ракетой «Игла» беспилотника Вооруженных...
-2025-05-22 14:06:11,064 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:06:26,846 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:06:26,850 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 14:06:26,860 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:09:05,855 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:09:05,859 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Пользователи сети оценили наряд американской...
-2025-05-22 14:09:05,870 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:14:23,993 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:14:23,997 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Аномально жаркое лето в 2025...
-2025-05-22 14:14:24,005 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:16:05,461 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:16:05,463 - rabbit_producer - INFO - 📰 Отправлено в news_queue: BERLIN, May 22. /TASS/. The...
-2025-05-22 14:16:05,470 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:16:34,244 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:16:34,246 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Киев передал Москве список пленных...
-2025-05-22 14:16:34,257 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:19:00,482 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:19:00,484 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Киев передал Москве список пленных...
-2025-05-22 14:19:00,492 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:19:53,040 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:19:53,042 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Главными проигравшими от повышения импортных...
-2025-05-22 14:19:53,055 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:20:43,926 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:20:43,928 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Киев передал Москве список пленных...
-2025-05-22 14:20:43,937 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:21:13,070 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:21:13,073 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Киев передал Москве список пленных...
-2025-05-22 14:21:13,083 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:22:22,597 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:22:22,599 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Российская певица Пелагея выиграла суд...
-2025-05-22 14:22:22,607 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:22:58,416 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:22:58,418 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MADRID, May 22. /TASS/. The...
-2025-05-22 14:22:58,422 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:25:00,599 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:25:00,603 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Живущая в Испании телеведущая Татьяна...
-2025-05-22 14:25:00,614 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:27:36,324 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:27:36,326 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Россия будет отвечать на атаки...
-2025-05-22 14:27:36,337 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:27:56,798 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:27:56,805 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 14:27:56,814 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:32:29,466 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:32:29,467 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Один из напавших на бывшего...
-2025-05-22 14:32:29,472 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:32:29,477 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:32:29,479 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Один из напавших на бывшего...
-2025-05-22 14:32:29,485 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:32:29,630 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:32:29,632 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Россия будет отвечать на атаки...
-2025-05-22 14:32:29,636 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:32:29,638 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:32:29,641 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Россия будет отвечать на атаки...
-2025-05-22 14:32:29,648 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:33:05,816 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:33:05,818 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:33:05,819 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Один из напавших на бывшего...
-2025-05-22 14:33:05,821 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Один из напавших на бывшего...
-2025-05-22 14:33:05,835 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:33:05,835 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:35:48,945 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:35:48,948 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Популярный в России комик и...
-2025-05-22 14:35:48,963 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:36:48,616 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:36:48,619 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Россия получила от Украины список...
-2025-05-22 14:36:48,629 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:42:58,352 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:42:58,355 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. Russia's...
-2025-05-22 14:42:58,366 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:43:31,160 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:43:31,163 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Новые ограничения, которые хочет ввести...
-2025-05-22 14:43:31,173 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:48:17,152 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:48:17,155 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Киев сделал свою часть работы...
-2025-05-22 14:48:17,172 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:48:37,052 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:48:37,055 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. Russian...
-2025-05-22 14:48:37,071 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:50:47,572 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:50:47,576 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Британская супермодель Наоми Кэмпбелл посетила...
-2025-05-22 14:50:47,649 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:52:24,126 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:52:24,128 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В НАТО следует возродить учения...
-2025-05-22 14:52:24,139 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:54:29,040 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:54:29,042 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ALMETYEVSK, May 22. /TASS/. Tatneft...
-2025-05-22 14:54:29,048 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:57:56,507 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:57:56,510 - rabbit_producer - INFO - 📰 Отправлено в news_queue: WASHINGTON, May 22. /TASS/. One...
-2025-05-22 14:57:56,521 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:58:28,001 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:58:28,003 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ALMETYEVSK, May 22. /TASS/. Tatneft...
-2025-05-22 14:58:28,013 - rabbit_producer - INFO - Producer отключен
-2025-05-22 14:58:55,854 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 14:58:55,857 - rabbit_producer - INFO - 📰 Отправлено в news_queue: WASHINGTON, May 22. /TASS/. One...
-2025-05-22 14:58:55,871 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:01:32,578 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:01:32,583 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Частный самолет класса бизнес-джет упал...
-2025-05-22 15:01:32,599 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:04:11,098 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:04:11,100 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ST. PETERSBURG, May 22. /TASS/....
-2025-05-22 15:04:11,110 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:04:47,940 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:04:47,943 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Кардиолог Джереми Лондон пригрозил серьезными...
-2025-05-22 15:04:47,954 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:06:54,355 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:06:54,357 - rabbit_producer - INFO - 📰 Отправлено в news_queue: GENEVA, May 22. /TASS/. Discussion...
-2025-05-22 15:06:54,371 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:08:00,454 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:08:00,458 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Игроки ярославского «Локомотива» получат премию...
-2025-05-22 15:08:00,469 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:10:20,265 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:10:20,267 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В Израиле 13-летний подросток нашел...
-2025-05-22 15:10:20,291 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:13:23,079 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:13:23,082 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Китайская корпорация Xiaomi анонсировала смартфон...
-2025-05-22 15:13:23,088 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:16:15,821 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:16:15,824 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Олимпийская чемпионка по фигурному катанию...
-2025-05-22 15:16:15,833 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:16:32,607 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:16:32,610 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. A...
-2025-05-22 15:16:32,624 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:18:40,200 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:18:40,203 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. Ukrainian...
-2025-05-22 15:18:40,217 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:19:17,982 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:19:17,986 - rabbit_producer - INFO - 📰 Отправлено в news_queue: В Калининграде 58-летняя местная жительница...
-2025-05-22 15:19:18,007 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:22:26,961 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:22:26,964 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. Secretary...
-2025-05-22 15:22:26,973 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:22:58,242 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:22:58,245 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Комитет по охране прав детей...
-2025-05-22 15:22:58,259 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:25:11,768 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:25:11,770 - rabbit_producer - INFO - 📰 Отправлено в news_queue: ST. PETERSBURG, May 22. /TASS/....
-2025-05-22 15:25:11,779 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:26:05,533 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:26:05,536 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Вооруженные силы Украины (ВСУ) ударили...
-2025-05-22 15:26:05,548 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:28:10,339 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:28:10,342 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Вооруженные силы Украины (ВСУ) ударили...
-2025-05-22 15:28:10,353 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:29:22,164 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:29:22,168 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Овощи в России начнут дешеветь...
-2025-05-22 15:29:22,178 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:30:46,821 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:30:46,824 - rabbit_producer - INFO - 📰 Отправлено в news_queue: MOSCOW, May 22. /TASS/. The...
-2025-05-22 15:30:46,831 - rabbit_producer - INFO - Producer отключен
-2025-05-22 15:31:23,502 - rabbit_producer - INFO - Producer подключен к RabbitMQ
-2025-05-22 15:31:23,504 - rabbit_producer - INFO - 📰 Отправлено в news_queue: HANOI, May 22. /TASS/. Vietnam's...
-2025-05-22 15:31:23,509 - rabbit_producer - INFO - Producer отключен
+2025-05-22 19:38:02,095 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 19:38:17,490 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Суд первой инстанции в Милане...
+2025-05-22 19:38:17,495 - rabbit_producer - INFO - Producer отключен
+2025-05-22 19:39:51,181 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-22 19:39:51,185 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-22 19:40:06,678 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-22 19:40:06,680 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-22 20:14:40,370 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 20:14:40,377 - rabbit_producer - INFO - 📰 Отправлено в news_queue: Популярный российский блогер Илья Варламов...
+2025-05-22 20:14:40,380 - rabbit_producer - INFO - Producer отключен
+2025-05-22 20:14:58,904 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-22 20:16:57,414 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 20:16:57,421 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-22 20:16:57,426 - rabbit_producer - INFO - Producer отключен
+2025-05-22 20:17:46,755 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-22 20:17:46,757 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-22 20:51:29,021 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 20:51:29,031 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 20:51:29,039 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 20:51:29,045 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-22 20:51:46,079 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-22 20:52:00,301 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-22 20:52:36,645 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-22 20:53:31,502 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-22 20:55:36,207 - rabbit_producer - ERROR - Ошибка при закрытии Producer: Stream connection lost: ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)
+2025-05-22 21:10:34,249 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 21:10:34,259 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 21:10:34,270 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 21:10:48,113 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-22 21:12:12,300 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-22 21:15:29,887 - rabbit_producer - ERROR - Ошибка отправки: Stream connection lost: ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)
+2025-05-22 21:15:29,889 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-22 21:15:38,750 - rabbit_producer - ERROR - Ошибка при закрытии Producer: Stream connection lost: ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)
+2025-05-22 22:11:19,592 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 22:11:19,599 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 22:11:19,609 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 22:11:19,616 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-22 22:17:18,622 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 22:17:18,630 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 22:17:18,638 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 22:17:40,005 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-22 22:18:05,217 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-22 22:20:55,049 - rabbit_producer - ERROR - Ошибка при закрытии Producer: Stream connection lost: ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)
+2025-05-22 22:45:43,893 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 22:45:43,899 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 22:45:43,908 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 22:45:43,928 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 22:51:15,549 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 22:51:15,557 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 22:51:15,565 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 22:51:15,576 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 22:51:39,481 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-22 22:51:53,713 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-22 23:04:19,888 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-22 23:05:04,572 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-22 23:05:33,801 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 11:20:51,481 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 11:21:05,675 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 11:21:24,508 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 11:27:01,885 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 11:27:21,224 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 11:27:44,439 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 11:29:16,277 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 11:30:00,659 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 11:30:47,359 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 11:41:54,505 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 12:03:12,936 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 12:08:53,371 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 12:28:21,687 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 12:40:52,473 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 12:42:56,853 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 12:58:48,388 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 13:00:34,434 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 13:00:45,333 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 13:01:54,982 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 13:02:17,333 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 13:28:09,996 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 13:34:46,836 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 14:00:41,550 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 14:00:59,491 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 14:00:59,493 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 14:00:59,495 - rabbit_producer - INFO - Producer отключен
+2025-05-29 14:01:16,878 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 14:01:16,879 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 14:01:16,883 - rabbit_producer - INFO - Producer отключен
+2025-05-29 14:02:25,324 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 14:02:25,325 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 14:02:25,339 - rabbit_producer - INFO - Producer отключен
+2025-05-29 14:05:37,525 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 14:05:37,526 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 14:05:37,528 - rabbit_producer - INFO - Producer отключен
+2025-05-29 14:07:14,177 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 14:07:14,179 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 14:07:14,183 - rabbit_producer - INFO - Producer отключен
+2025-05-29 14:09:13,054 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 14:09:13,055 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 14:09:13,058 - rabbit_producer - INFO - Producer отключен
+2025-05-29 14:09:20,949 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 20:04:05,613 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 20:04:22,770 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 20:04:52,322 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 20:06:20,362 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 20:06:30,844 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 20:06:39,567 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 20:06:53,147 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 20:09:02,348 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 20:12:15,634 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-29 20:12:40,529 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 20:13:03,278 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 20:13:37,456 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-29 20:14:05,008 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 15:47:55,637 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-30 15:48:29,293 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 15:48:46,756 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 15:49:36,538 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 15:52:54,224 - rabbit_producer - ERROR - Ошибка отправки: Stream connection lost: ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)
+2025-05-30 15:52:54,226 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 15:53:50,823 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 15:53:50,825 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 15:54:20,484 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 15:54:20,486 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 15:55:04,109 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 15:55:04,111 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 15:55:11,641 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-30 15:55:11,644 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 15:56:05,765 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 15:57:14,638 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 15:58:07,843 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-30 15:59:55,841 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 16:00:33,103 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 16:01:51,394 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 16:06:04,276 - rabbit_producer - ERROR - Ошибка отправки: Stream connection lost: ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)
+2025-05-30 16:06:04,278 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 16:07:01,097 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 16:07:01,099 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 16:07:31,177 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 16:07:31,179 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 16:07:49,276 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 16:07:49,278 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 16:08:22,928 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 16:08:22,930 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 16:09:24,296 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-30 16:09:24,299 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 16:09:53,260 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 16:10:15,364 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 16:11:17,768 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-30 16:11:50,465 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 16:13:45,934 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 16:15:00,937 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 16:17:44,510 - rabbit_producer - ERROR - Ошибка отправки: Stream connection lost: ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None)
+2025-05-30 16:17:44,511 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 16:18:13,035 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 16:18:13,037 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 16:18:25,492 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 16:18:25,494 - rabbit_producer - ERROR - Ошибка отправки: Channel is closed.
+2025-05-30 17:13:52,573 - rabbit_producer - INFO - Producer подключен к RabbitMQ
+2025-05-30 17:13:52,599 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 17:14:22,159 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 17:16:52,386 - rabbit_producer - INFO - 📤 Отправлено в очередь news_queue
+2025-05-30 17:17:00,340 - rabbit_producer - INFO - Producer отключен
